@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "concat-stream": "^2.0.0",
+    "split2": "^4.2.0",
+    "through2": "^5.0.0"
+  },
+  "devDependencies": {
+    "@babel/helper-compilation-targets": "^7.28.6"
+  }
+}
